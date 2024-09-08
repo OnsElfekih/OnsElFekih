@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Java,Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OnsElfekih](https://github.com/OnsElfekih)
+- 👨‍💻 All of my projects are available on [my github](https://github.com/OnsElfekih)
 
 - 💬 Ask me about **Adobe,React,Angular**
 
 - 📫 How to reach me **elfekihons@gmail.com**
 
-- 📄 Know about my experiences [OnsELFEKIH_CV.pdf](OnsELFEKIH_CV.pdf)
+- 📄   Familiarize yourself with my experiences via [my resume](OnsELFEKIH_CV.pdf)
 
 - ⚡ Fun fact **Music is my source of overcoming challenges**
 
