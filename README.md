@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ons ELFEKIH</h1>
-<h3 align="center">An Engineering student a junior Full Stuck developer and a junior UX/UI Designer. I am trying to work with the maximum of programming languages.</h3>
+<h3 align="center">An Engineering student and a Web Devloper from Tunisia .</h3>
 <img align="right" alt="Coding"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqm3WYr1vgqG-u3xol6tbHW-JFeiTNhcGfA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onselfekih&label=Profile%20views&color=0e75b6&style=flat" alt="onselfekih" /> </p>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **elfekihons@gmail.com**
 
-- 📄   Familiarize yourself with my experiences via [my resume](file:///D:/ons%20d/ITBS/OnsELFEKIH_CV.pdf)
+- 📄   Familiarize yourself with my experiences via [my resume](OnsELFEKIH_CV.pdf)
 
 - ⚡ Fun fact **Music is my source of overcoming challenges**
 
