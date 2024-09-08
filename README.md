@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onselfekih&label=Profile%20views&color=0e75b6&style=flat" alt="onselfekih" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/oelfekih" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/oelfekih?logo=twitter&style=for-the-badge" alt="https://x.com/oelfekih" /></a> </p>
-
 - 🌱 I’m currently learning **Java,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OnsElfekih](https://github.com/OnsElfekih)
