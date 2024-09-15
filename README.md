@@ -2,7 +2,7 @@
 <h3 align="center">IT Engineering Student  from Tunisia </h3>
 <img align="right" alt="Coding"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqm3WYr1vgqG-u3xol6tbHW-JFeiTNhcGfA&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onselfekih&label=Profile%20views&color=0e75b6&style=flat" alt="onselfekih" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YLFDrBfo25JhP0OQXufAN71WnsVyqsP5Dw&s" /> </p>
 
 - 🌱 I’m currently learning **Java,Python**
 
