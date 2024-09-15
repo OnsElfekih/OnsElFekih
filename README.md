@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ons ELFEKIH</h1>
 <h3 align="center">IT Engineering Student  from Tunisia </h3>
-<img align="right" alt="Coding"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YLFDrBfo25JhP0OQXufAN71WnsVyqsP5Dw&s">
+<img align="right" alt="Coding"  width="400" src="https://i0.wp.com/itbs.tn/hojoseq/2020/04/itbs-favicon.png?fit=512%2C512&ssl=1">
 
 - 🌱 I’m currently learning **Java,Python**
 
