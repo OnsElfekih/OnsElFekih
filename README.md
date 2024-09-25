@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ons ELFEKIH</h1>
-<h3 align="center">IT Engineering Student  from Tunisia </h3>
+<h3 align="center"> Software Engineering Student at ITBS  </h3>
 <img align="right" alt="Coding"  width="400" src="https://i0.wp.com/itbs.tn/hojoseq/2020/04/itbs-favicon.png?fit=512%2C512&ssl=1">
 
 - 🌱 I’m currently learning **Java,Python**
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **elfekihons@gmail.com**
 
-- 📄   Familiarize yourself with my experiences via [my resume](https://github.com/user-attachments/files/17005736/CV.pdf)
+- 📄   Familiarize yourself with my experiences via [my resume](https://github.com/user-attachments/files/17133727/CV.pdf)
 
 - ⚡ Fun fact **Music is my source of overcoming challenges**
 
