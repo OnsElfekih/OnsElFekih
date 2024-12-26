@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ons ELFEKIH</h1>
-<h3 align="center"> Software Engineering Student at ITBS  </h3>
+<h3 align="center"> Computer Science Engineering Student at ITBS  </h3>
 <img align="right" alt="Coding"  width="400" src="https://i0.wp.com/itbs.tn/hojoseq/2020/04/itbs-favicon.png?fit=512%2C512&ssl=1">
 
 - 🌱 🌱 I’m currently learning and working with  ** Java, Python, and C#.**
