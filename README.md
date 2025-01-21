@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ons ELFEKIH</h1>
 <h3 align="center"> Computer Science Engineering Student at ITBS  </h3>
-<img align="right" alt="Coding"  width="400" src="![image](https://github.com/user-attachments/assets/5189e347-e96f-486b-9312-e9e4998aa72c)
+<img align="right" alt="Coding"  width="400" src="![image](https://github.com/user-attachments/assets/5189e347-e96f-486b-9312-e9e4998aa72c)"
 ">
 
 - 🌱 🌱 I’m currently learning and working with  ** Java, Python, and C#.**
@@ -85,5 +85,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onselfekih&show_icons=true&locale=en&layout=compact" alt="onselfekih" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onselfekih&show_icons=true&locale=en" alt="onselfekih" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onselfekih&" alt="onselfekih" /></p>
