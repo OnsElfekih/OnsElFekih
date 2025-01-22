@@ -161,7 +161,7 @@
   </div>
   <div style="text-align: center;">
     <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Android_Studio_icon.svg" alt="Android Studio" width="50" height="50"/>
+      <img src="[https://upload.wikimedia.org/wikipedia/commons/8/8e/Android_Studio_icon.svg](https://img.icons8.com/?size=100&id=17836&format=png&color=000000)" alt="Android Studio" width="50" height="50"/>
     </a>
     <p>Android Studio</p>
   </div>
