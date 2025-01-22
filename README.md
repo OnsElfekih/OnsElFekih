@@ -117,28 +117,6 @@
     </div>
   </div>
 
-  <!-- Multimedia -->
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <h4>Multimedia</h4>
-    <div style="text-align: center;">
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="50" height="50"/>
-      </a>
-      <p>Adobe Illustrator</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50"/>
-      </a>
-      <p>Blender</p>
-    </div>
-    <div style="text-align: center;">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-      </a>
-      <p>Figma</p>
-    </div>
-  </div>
 
   <!-- Backlog Management -->
   <div style="display: flex; align-items: center; gap: 20px;">
@@ -176,16 +154,34 @@
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
       </a>
-      <p>VS Code</p>
+      <p>Visual Studio Code</p>
     </div>
   </div>
 </div>
 
-
-
-
-
-
+  <!-- Multimedia -->
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <h4>Multimedia</h4>
+    <div style="text-align: center;">
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="50" height="50"/>
+      </a>
+      <p>Adobe Illustrator</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50"/>
+      </a>
+      <p>Blender</p>
+    </div>
+    <div style="text-align: center;">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+      </a>
+      <p>Figma</p>
+    </div>
+  </div>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onselfekih&show_icons=true&locale=en&layout=compact" alt="onselfekih" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onselfekih&show_icons=true&locale=en" alt="onselfekih" /></p>
