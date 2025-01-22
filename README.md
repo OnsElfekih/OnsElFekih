@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/oelfekih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/oelfekih" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/onselfekih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onselfekih/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ons.elfekih.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ons.elfekih.7/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ons_sadak_elfekih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ons_sadak_elfekih/" height="30" width="40" /></a>
+<a href="mailto:elfekihons@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Gmail_Icon.jpg" alt="Gmail" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
