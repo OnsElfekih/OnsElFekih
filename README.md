@@ -124,12 +124,6 @@
     <p>Blender</p>
   </div>
   <div style="text-align: center;">
-    <a href="https://www.mixamo.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_mixamo/adobe_mixamo-icon.svg" alt="Mixamo" width="50" height="50"/>
-    </a>
-    <p>Mixamo</p>
-  </div>
-  <div style="text-align: center;">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
     </a>
@@ -140,7 +134,7 @@
   <h4>Backlog Management</h4>
   <div style="text-align: center;">
     <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-icon.svg" alt="Scrum" width="50" height="50"/>
+      <img src="https://img.icons8.com/?size=100&id=NB7CYUhiUV36&format=png&color=000000" alt="Scrum" width="50" height="50"/>
     </a>
     <p>Scrum</p>
   </div>
