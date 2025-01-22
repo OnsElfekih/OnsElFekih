@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/onselfekih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onselfekih/" height="30" width="40" /></a>
 <a href="mailto:elfekihons@gmail.com" target="_blank">
-  <img align="center" src="[https://icons8.com/icon/P7UIlhbpWzZm/gmail](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)" alt="Gmail" height="30" width="40" />
+  <img align="center" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="Gmail" height="30" width="40" />
 </a>
 </p>
 
