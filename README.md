@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **elfekihons@gmail.com**
 
-- 📄   Familiarize yourself with my experiences via [my resume](https://github.com/user-attachments/files/18389713/CV.pdf)
+- 📄   Familiarize yourself with my experiences via [my resume](https://github.com/user-attachments/files/18502335/CV.pdf)
 
 - ⚡ Fun fact **Music is my source of overcoming challenges**
 
