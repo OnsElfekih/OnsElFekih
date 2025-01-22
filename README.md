@@ -25,8 +25,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-
   <!-- Web Frameworks -->
+  <h4>Web Frameworks</h4>
   <div style="text-align: center;">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
@@ -47,6 +47,7 @@
   </div>
 
   <!-- Programming Languages -->
+  <h4>Programming Languages</h4>
   <div style="text-align: center;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
@@ -85,6 +86,7 @@
   </div>
 
   <!-- Backend -->
+  <h4>Backend</h4>
   <div style="text-align: center;">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
@@ -93,6 +95,7 @@
   </div>
 
   <!-- Database -->
+  <h4>Database</h4>
   <div style="text-align: center;">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
@@ -103,10 +106,17 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
     </a>
-    <p>SQL</p>
+    <p>MySQL</p>
   </div>
 
   <!-- Multimedia -->
+  <h4>Multimedia</h4>
+  <div style="text-align: center;">
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="50" height="50"/>
+    </a>
+    <p>Adobe Illustrator</p>
+  </div>
   <div style="text-align: center;">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
       <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50"/>
@@ -114,10 +124,10 @@
     <p>Blender</p>
   </div>
   <div style="text-align: center;">
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="50" height="50"/>
+    <a href="https://www.mixamo.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/adobe_mixamo/adobe_mixamo-icon.svg" alt="Mixamo" width="50" height="50"/>
     </a>
-    <p>Adobe</p>
+    <p>Mixamo</p>
   </div>
   <div style="text-align: center;">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -127,6 +137,7 @@
   </div>
 
   <!-- Backlog Management -->
+  <h4>Backlog Management</h4>
   <div style="text-align: center;">
     <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-icon.svg" alt="Scrum" width="50" height="50"/>
@@ -135,31 +146,33 @@
   </div>
 
   <!-- Editors -->
+  <h4>Editors</h4>
   <div style="text-align: center;">
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Visual-Studio-icon.svg" alt="Visual Studio" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
     </a>
     <p>Visual Studio</p>
   </div>
   <div style="text-align: center;">
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ" width="50" height="50"/>
+      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="50" height="50"/>
     </a>
     <p>IntelliJ</p>
   </div>
   <div style="text-align: center;">
     <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" width="50" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Android_Studio_icon.svg" alt="Android Studio" width="50" height="50"/>
     </a>
     <p>Android Studio</p>
   </div>
   <div style="text-align: center;">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
     </a>
-    <p>Visual Studio Code</p>
+    <p>VS Code</p>
   </div>
 </div>
+
 
 
 
