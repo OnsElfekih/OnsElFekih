@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available on [my github](https://github.com/OnsElfekih)
 
-- 💬 Ask me about **Adobe,React,Angular**
-
 - 📫 How to reach me **elfekihons@gmail.com**
 
 - 📄   Familiarize yourself with my experiences via [my resume](https://github.com/user-attachments/files/18517111/CV.pdf)
