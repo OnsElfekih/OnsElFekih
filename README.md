@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://i0.wp.com/itbs.tn/hojoseq/2020/04/itbs-favicon.png?fit=512%2C512&ssl=1" />
 
 
-- 🌱 🌱 I’m currently learning and working with  ** Java, Python, and C#.**
+- 🌱 🌱 I’m currently learning and working with **Java**, **Python**, and **C#**.
 
 - 👨‍💻 All of my projects are available on [my github](https://github.com/OnsElfekih)
 
