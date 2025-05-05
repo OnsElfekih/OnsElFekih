@@ -103,7 +103,7 @@
     <h4>Database</h4>
     <div style="text-align: center;">
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+        <img src="[https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png)" alt="Firebase" width="50" height="50"/>
       </a>
       <p>Firebase</p>
     </div>
